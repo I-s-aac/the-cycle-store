@@ -25,22 +25,23 @@ header {
     padding: 5px 20px;
     font-size: 30px;
     margin-bottom: 10px;
-    background-color: gray;
+    background-image: linear-gradient(to right, green, rgb(112, 64, 16));
     height: 50px;
 }
 
 #title {
     font-size: 40px;
+    font-family: sans-serif;
 }
 
 nav {
-    float: right;
     font-size: 25px;
-    margin-top: 5px;
+    float: right;
+    padding: 10px;
 }
 
 nav a {
-    padding: 10px;
+    padding-right: 25px;
 }
 
 .align-left {
