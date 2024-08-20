@@ -44,10 +44,23 @@ nav a {
     padding-right: 25px;
 }
 
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 5px;
+    left: 0px;
+    right: 0px;
+}
+
 .align-left {
     float: left;
 }
 
 .align-right {
     float: right;
+}
+
+img {
+    height: 50px;
+    width: auto;
 }
