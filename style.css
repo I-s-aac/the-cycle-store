@@ -8,5 +8,9 @@ html, body {
 
 a {
     text-decoration: none;
-    color: lightslategray
+    color: lightslategray;
+}
+
+a:hover {
+    color: lightsteelblue
 }
