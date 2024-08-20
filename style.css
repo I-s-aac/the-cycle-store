@@ -8,6 +8,10 @@ html, body {
     background-color: black;
 }
 
+main {
+    font-size: 20px;
+}
+
 a {
     text-decoration: none;
     color: lightslategray;
@@ -18,12 +22,18 @@ a:hover {
 }
 
 header {
+    padding: 5px 20px;
+    font-size: 30px;
     margin-bottom: 10px;
-    border: 1px solid gray;
+    color: black;
+    border: 3px solid gray;
+    background-color: gray;
 }
 
 nav {
     float: right;
+    font-size: 25px;
+    margin-top: 5px;
 }
 
 nav a {
