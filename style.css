@@ -1,0 +1,12 @@
+* {
+    color: lightgray;
+}
+
+html, body {
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: lightslategray
+}
