@@ -1,5 +1,7 @@
 * {
     color: lightgray;
+    padding: 0px;
+    margin: 0px;
 }
 
 html, body {
@@ -13,4 +15,25 @@ a {
 
 a:hover {
     color: lightsteelblue
+}
+
+header {
+    margin-bottom: 10px;
+    border: 1px solid gray;
+}
+
+nav {
+    float: right;
+}
+
+nav a {
+    padding: 10px;
+}
+
+.align-left {
+    float: left;
+}
+
+.align-right {
+    float: right;
 }
