@@ -4,8 +4,8 @@
     margin: 0px;
 }
 
-html, body {
-    background-color: black;
+body {
+    background-image: url("repeating-background.png");
 }
 
 main {
