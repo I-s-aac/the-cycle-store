@@ -41,6 +41,12 @@ header {
     padding-left: 20px;
 }
 
+#image-gallery {
+    float: right;
+    margin-right: 15%;
+    margin-top: 10%;
+}
+
 nav {
     font-size: 25px;
     float: right;
