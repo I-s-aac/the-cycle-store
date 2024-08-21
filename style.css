@@ -10,6 +10,11 @@ html, body {
 
 main {
     font-size: 20px;
+    background-color: rgb(50, 50, 50);
+    margin-left: 10%;
+    margin-top: 20px;
+    float: left;
+    padding: 20px;
 }
 
 a {
@@ -25,13 +30,15 @@ header {
     padding: 5px 20px;
     font-size: 30px;
     margin-bottom: 10px;
-    background-image: linear-gradient(to right, green, rgb(112, 64, 16));
+    background-color: rgb(50, 50, 50);
     height: 50px;
 }
 
 #title {
     font-size: 40px;
     font-family: sans-serif;
+    float: left;
+    padding-left: 20px;
 }
 
 nav {
@@ -58,9 +65,4 @@ footer {
 
 .align-right {
     float: right;
-}
-
-img {
-    height: 50px;
-    width: auto;
 }
