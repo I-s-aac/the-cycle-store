@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-    color: lightsteelblue
+    color: lightsteelblue;
 }
 
 header {
@@ -43,9 +43,10 @@ header {
 
 #title {
     font-size: 40px;
-    font-family: sans-serif;
+    font-family: "Josefin Slab";
     float: left;
     padding-left: 20px;
+    margin-top: 5px;
 }
 
 #image-gallery {
